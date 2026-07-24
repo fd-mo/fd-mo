@@ -4,7 +4,7 @@ root@fd-mo:~$ whoami
 
 # Essam Emad
 
-**Information Systems Student**  
+**Computer Information Systems Student**  
 Focused on **Cybersecurity** with a strong interest in **Penetration Testing**.
 
 ---
