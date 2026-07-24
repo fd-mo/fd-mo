@@ -1,99 +1,130 @@
-# Hi there 👋
-
-<table>
-<tr>
-<td width="45%">
-
-,,,,,,,,,,,,,,,,,,,,:;;I;;;',,;l:,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,::;;;;I,.     '`^I!;,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,::;;;;"          .,I>i,,,,,,,,,,,,,
-,,,,,,,,,,,"",::::::;;;  ._]}([!"'   ;<<>,,,,,,,,,,,
-,,,,,,,,,""""",::::;;;I.:_)tjfttffrz1`<<<>;,,,,,,,,,
-,,,,,,,,^^""",,,:::;;;I:-_i<1frnuucXri<<>ii;,,,,,,,,
-,,,,,,,^^^"",,,,::::;I[_}[i"!it\I;_ct><iiii>:,,,,,,,
-,,,,,,"````^^""",:::;;]?/ruxxrvJ[<}j[ii!iii>>,,,,,,,
-,,,,,,``````^"",,,,::;!_)jrr/?|xjvYL<l!!!ll!i;,,,,,,
-,,,,,,.''``^^""",,,:::l_}))}1(\jjfjx:II;;IIIll,,,,,,
-,,,,,,'''```^"",",,"  >i_]]}1|\|]\>;;;;:::;;I!,,,,,,
-,,,,,"'''``^^"",i<I   i~l![1{}{)[I:::;;:::::;I,,,,,,
-,,,,,,'''`'`^!~~i_-l    "i`'`,I~ "I;:;;,,,,:::,,,,,,
-,,,,,,^       '+_<--    .,i++_]-''.`(]I:,,:::,,,,,,,
-,,,,,,,        ^??_]      .+)frt:'+. -\<:::::,,,,,,,
-,,,,,,,,       `]]?]       }tux[  : . l)iI;;,,,,,,,,
-,,,,,,,,,.     l,;l<       +|'}` :x   .l"!I,,,,,,,,,
-,,,,,,,,,,`   '^""^"        ?,   ')      ",,,,,,,,,,
-,,,,,,,,,,,,.    .          '"    ,.   `,,,,,,,,,,,,
-,,,,,,,,,,,,,,`              ~?   i;.^,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,".          ;}. ',,,,,,,,,,,,,,,,,,
-</td>
-
-<td width="55%">
-
-```console
-┌──(essam㉿github)-[~/profile]
-└─$ fastfetch
-
-Name            : Essam
-Role            : Information Systems Student
-
-Focus           : Cybersecurity
-Specialization  : Penetration Testing
-
-Currently
-──────────────
-• Studying eJPT
-• Building Python Security Tools
-• Solving TryHackMe Labs
-• Writing Technical Notes in Obsidian
-
-Tech Stack
-──────────────
-OS      : Linux
-Editor  : VS Code
-Lang    : Python • Java
-Tools   : Git • GitHub
-
-Mindset
-──────────────
-Learn → Build → Break → Fix → Repeat
-
-Current Goal
-──────────────
-Building a portfolio that reflects
-real practical cybersecurity skills.
-
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## Current Journey
+# ███████╗███████╗███████╗ █████╗ ███╗   ███╗
+# ██╔════╝██╔════╝██╔════╝██╔══██╗████╗ ████║
+# █████╗  ███████╗███████╗███████║██╔████╔██║
+# ██╔══╝  ╚════██║╚════██║██╔══██║██║╚██╔╝██║
+# ███████╗███████║███████║██║  ██║██║ ╚═╝ ██║
+# ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
 
 ```text
-[███████░░░░░░░░░░░░] eJPT
+Booting Portfolio...
+──────────────────────────────────────────────
 
-Next:
-→ Active Directory
-→ Windows Privilege Escalation
-→ Python Automation
-→ Real-World Projects
+Loading profile.................[ OK ]
+Loading repositories............[ OK ]
+Loading projects................[ OK ]
+Loading cybersecurity notes.....[ OK ]
+Loading roadmap.................[ OK ]
+
+Welcome.
+```
+
+```console
+┌──(essam㉿github)-[~/portfolio]
+└─$ fastfetch
+```
+
+### 👤 Identity
+
+```yaml
+Name:           Essam
+Location:       Saudi Arabia 🇸🇦
+Role:           Information Systems Student
+Field:          Cybersecurity
+Focus:          Penetration Testing
 ```
 
 ---
 
-## Featured Projects
+### 🚀 Current Mission
 
-📂 Cybersecurity Notes *(Coming Soon)*
-
-📂 Python Security Tools *(Coming Soon)*
-
-📂 Recon Toolkit *(Coming Soon)*
+```text
+Building practical cybersecurity skills through
+projects, labs, scripting, and continuous learning.
+```
 
 ---
 
-## Quote
+### 📚 Currently Learning
 
-> "Knowledge means little until it is applied."
+```text
+• eJPT
+• Linux
+• Networking
+• Active Directory
+• Web Security
+• Python for Cybersecurity
+```
+
+---
+
+### 🛠 Languages
+
+```text
+C++
+Java
+Python
+SQL
+Bash
+```
+
+---
+
+### ⚙ Technologies
+
+```text
+Linux
+Git
+GitHub
+VS Code
+VirtualBox
+Wireshark
+Nmap
+Burp Suite
+Obsidian
+```
+
+---
+
+### 📂 Active Repositories
+
+```text
+📁 Cybersecurity Notes
+📁 Python Security Tools
+📁 Recon Toolkit
+📁 University Projects
+📁 CTF Write-ups
+```
+
+---
+
+### 🎯 2026 Goals
+
+```text
+[✓] Build GitHub Portfolio
+[✓] Document Learning Journey
+[ ] Earn eJPT
+[ ] Build 20+ Security Projects
+[ ] Contribute to Open Source
+```
+
+---
+
+### 💡 Philosophy
+
+```text
+Learn.
+Understand.
+Build.
+Break.
+Fix.
+Repeat.
+```
+
+---
+
+```console
+┌──(essam㉿github)-[~/portfolio]
+└─$ echo $NEXT_STEP
+
+"Keep building."
+```
