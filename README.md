@@ -53,14 +53,6 @@ Burp Suite
 
 ---
 
-## Featured Projects
-
-```text
-📁 Cybersecurity Notes
-📁 Python Security Tools
-📁 Recon Toolkit
-📁 Card Simulator
-```
 
 ---
 
