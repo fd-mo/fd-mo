@@ -1,5 +1,4 @@
-````markdown
-<div align="center">
+# 👨‍💻 fd-mo
 
 ```text
 ███████╗██████╗       ███╗   ███╗ ██████╗
@@ -10,33 +9,17 @@
 ╚═╝     ╚═════╝       ╚═╝     ╚═╝ ╚═════╝
 ```
 
-# `~/fd-mo`
-
-**Computer Information Systems Student**  
-*Aspiring Penetration Tester • Cybersecurity Learner • Python Enthusiast*
-
-<p>
-  <a href="https://github.com/fd-mo">
-    <img src="https://img.shields.io/badge/GitHub-fd--mo-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="mailto:essameamd.a10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/essam-emad-809510319/">
-    <img src="https://img.shields.io/badge/LinkedIn-Essam%20Emad-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
-</div>
+> **Computer Information Systems Student**  
+> Aspiring Penetration Tester • Cybersecurity Learner • Python Enthusiast
 
 ---
 
-## whoami
+## $ whoami
 
 ```bash
 $ whoami
 
-Name        : Essam
+Name        : Essam Emad
 Username    : fd-mo
 Role        : Computer Information Systems Student
 Location    : Saudi Arabia
@@ -45,51 +28,54 @@ Focus       : Cybersecurity
 
 ---
 
-## About
+## $ cat about.txt
 
 ```text
-> Learning by building.
-> Interested in Offensive Security.
-> Currently studying Computer Information Systems.
-> Improving my Python, Linux, Networking and Web Security skills.
-> Building projects while preparing for industry certifications.
+- Passionate about Cybersecurity.
+- Learning Offensive Security.
+- Building practical projects.
+- Improving Python, Linux and Networking skills.
+- Always learning by doing.
 ```
 
 ---
 
-## Tech Stack
+## $ tree skills
 
 ```text
-📂 Languages
-├── Python
-├── Java
-├── SQL
-└── HTML / CSS
-
-🖥 Operating Systems
-├── Linux
-└── Windows
-
-🛠 Tools
-├── Git
-├── VS Code
-├── Burp Suite
-├── Nmap
-├── Wireshark
-├── VirtualBox
-└── Metasploit
+skills/
+│
+├── Languages
+│   ├── Python
+│   ├── Java
+│   ├── SQL
+│   └── HTML/CSS
+│
+├── Operating Systems
+│   ├── Linux
+│   └── Windows
+│
+├── Cybersecurity
+│   ├── Nmap
+│   ├── Burp Suite
+│   ├── Wireshark
+│   ├── Metasploit
+│   └── Git
+│
+└── Virtualization
+    └── VirtualBox
 ```
 
 ---
 
-## Current Focus
+## $ cat currently_learning.txt
 
 ```text
-[+] eJPT Preparation
-[+] Penetration Testing
-[+] Python Automation
-[+] Linux
-[+] Networking
+> eJPT
+> Linux
+> Networking
+> Web Security
+> Python Automation
 ```
 
 ---
@@ -97,9 +83,8 @@ Focus       : Cybersecurity
 ## GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fd-mo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fd-mo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fd-mo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fd-mo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -114,21 +99,19 @@ Focus       : Cybersecurity
 
 ## Connect
 
-```text
-GitHub   : https://github.com/fd-mo
-Email    : essameamd.a10@gmail.com
-LinkedIn : https://www.linkedin.com/in/essam-emad-809510319/
-```
+- 📧 **Email**  
+  `essameamd.a10@gmail.com`
+
+- 💼 **LinkedIn**  
+  https://www.linkedin.com/in/essam-emad-809510319/
+
+- 🐙 **GitHub**  
+  https://github.com/fd-mo
 
 ---
 
-<div align="center">
-
-```text
-root@fd-mo:~$ echo "Keep Learning. Keep Building."
+```bash
+$ echo "Keep Learning. Keep Building."
 
 Keep Learning. Keep Building.
 ```
-
-</div>
-````
