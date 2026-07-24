@@ -74,8 +74,3 @@ LinkedIn:
 Email:
 **essamemad.a10@gmail.com**
 
-
-```console
-root@fd-mo:~$
-█
-```
