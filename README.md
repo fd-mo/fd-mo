@@ -1,6 +1,6 @@
 <div align="center">
 
-```text
+```console
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │ ● ● ●  root@fd-mo: ~/profile                                                 │
 └──────────────────────────────────────────────────────────────────────────────┘
@@ -10,69 +10,83 @@
 
 <table>
 <tr>
-<td width="34%" valign="top">
+<td width="38%" valign="top">
 
 ```text
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
+        #####
+       #######
+       ##O#O##
+       #VVVVV#
+     ###  V  ###
+    / /|     |\ \
+   / / |     | \ \
+  V   |=====|   V
+      |_| |_|
 
-      fd-mo
+      Kali Linux
 ```
 
 </td>
 
-<td width="66%" valign="top">
+<td width="62%" valign="top">
 
 ```console
 root@fd-mo:~$ fastfetch
 
-Name        : Essam Emad
-Username    : fd-mo
-Role        : Information Systems Student
-Location    : Saudi Arabia
+OS            Linux
+Shell         Bash
+Editor        VS Code
+Terminal      GitHub
 
-Focus       : Cybersecurity
-Track       : Penetration Testing
+────────────────────────────────
 
-University  : Imam Abdulrahman Bin Faisal University
+User          Essam Emad
+Username      fd-mo
+Role          Information Systems Student
+Location      Saudi Arabia
 
-Learning    : eJPT
+────────────────────────────────
+
+Focus         Cybersecurity
+Track         Penetration Testing
+
+────────────────────────────────
+
+Learning      eJPT
               TryHackMe
               Linux
               Active Directory
               Web Security
 
-Languages   : C++
+────────────────────────────────
+
+Languages     C++
               Python
               Java
               SQL
               Bash
 
-Tools       : Linux
-              Git
+────────────────────────────────
+
+Tools         Git
               GitHub
-              VS Code
-              VirtualBox
-              Burp Suite
-              Wireshark
               Nmap
+              Wireshark
+              Burp Suite
+              VirtualBox
               Obsidian
 
-Mission     : Build practical security tools
-              Document everything I learn
-              Share open-source projects
+────────────────────────────────
+
+Mission       Build practical security tools
+              Document my learning journey
+              Contribute to Open Source
+
 ```
 
 </td>
 </tr>
 </table>
-
----
 
 ```console
 root@fd-mo:~$ tree projects
@@ -80,47 +94,40 @@ root@fd-mo:~$ tree projects
 
 ```text
 projects
-│
 ├── 📁 Cybersecurity-Notes
 ├── 📁 Python-Security-Tools
 ├── 📁 Recon-Toolkit
 ├── 📁 Card-Simulator
-└── 📁 More Coming Soon...
+└── 📁 Coming-Soon
 ```
 
----
-
 ```console
-root@fd-mo:~$ cat roadmap.txt
+root@fd-mo:~$ roadmap
 ```
 
 ```text
 [✓] Build GitHub Profile
 [ ] Earn eJPT
 [ ] Build 20+ Cybersecurity Projects
-[ ] Contribute to Open Source
-[ ] Share Technical Write-ups
+[ ] Publish Open Source Tools
+[ ] Learn Active Directory
 ```
-
----
 
 ```console
 root@fd-mo:~$ contact
 ```
 
 ```text
-GitHub    : https://github.com/fd-mo
-LinkedIn  : https://www.linkedin.com/in/essam-emad-809510319
-Email     : essamemad.a10@gmail.com
+GitHub     : github.com/fd-mo
+LinkedIn   : linkedin.com/in/essam-emad-809510319
+Email      : essamemad.a10@gmail.com
 ```
-
----
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fd-mo&show_icons=false&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=8b949e&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fd-mo&show_icons=false&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=8b949e&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fd-mo&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=8b949e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fd-mo&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=8b949e"/>
 
 </div>
 
