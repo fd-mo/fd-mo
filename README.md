@@ -23,7 +23,7 @@ Name        : Essam Emad
 Username    : fd-mo
 Role        : Computer Information Systems Student
 Location    : Saudi Arabia
-Focus       : Cybersecurity
+Focus       : Cybersecurity 
 ```
 
 ---
@@ -62,8 +62,7 @@ skills/
 │   ├── Metasploit
 │   └── Git
 │
-└── Virtualization
-    └── VirtualBox
+└── 
 ```
 
 ---
@@ -80,12 +79,6 @@ skills/
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fd-mo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fd-mo&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
